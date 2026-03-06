@@ -69,4 +69,4 @@ RUN { \
 		a2enmod rewrite; \
 	fi;
 
-VOLUME ["/var/www/html"]
+# VOLUME ["/var/www/html"]
